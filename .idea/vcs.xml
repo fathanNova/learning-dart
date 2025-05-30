@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AMCC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AMCC/pelatihan-amcc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colab/FP Struktur Data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Semester-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Semester-2/Struktur Data/Search" vcs="Git" />
+  </component>
+</project>
